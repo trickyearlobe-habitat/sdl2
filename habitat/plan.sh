@@ -14,7 +14,7 @@ pkg_deps=(core/glibc)
 pkg_build_deps=(core/make core/gcc)
 
 pkg_lib_dirs=(lib)
-pkg_include_dirs=(include)
+pkg_include_dirs=(include/SDL2)
 pkg_bin_dirs=(bin)
 pkg_pconfig_dirs=(lib/pkgconfig)
 
