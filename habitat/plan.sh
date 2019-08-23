@@ -4,7 +4,7 @@ pkg_version="2.0.10"
 pkg_maintainer="Richard Nixon <richard.nixon@btinternet.com>"
 pkg_license=("Apache-2.0")
 pkg_description="SDL2 library for Simple Direct Media manipulation"
-pkg_upstream_url="http://http://www.libsdl.org"
+pkg_upstream_url="https://www.libsdl.org"
 
 pkg_source="http://www.libsdl.org/release/SDL2-${pkg_version}.tar.gz"
 pkg_dirname="SDL2-${pkg_version}"
